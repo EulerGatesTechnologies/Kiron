@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kiron.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab2d6e51c0ba42b72c2cd61231a6d7af53bae75c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0260f5e5c843c90be2fe9eddf53be5e88b14e055")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kiron.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kiron.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
