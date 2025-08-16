@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\KironInteractive\\Kiron\\Kiron.Api\\Kiron.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\KironInteractive\\Kiron\\Kiron.Api\\Kiron.Api.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\dev\\KironInteractive\\Kiron\\Kiron.Api\\Kiron.Api.csproj",
+        "projectPath": "C:\\dev\\KironInteractive\\Kiron\\Kiron.Api\\Kiron.Api.csproj",
+        "packagesPath": "C:\\Users\\qinis\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\KironInteractive\\Kiron\\Kiron.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\qinis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\dev\\MockProjects\\local-nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      }
+    }
+  }
+}

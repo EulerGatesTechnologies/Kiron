@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "RlRK90h7xWs=",
+  "success": false,
+  "projectFilePath": "C:\\dev\\KironInteractive\\Kiron\\Kiron.Api\\Kiron.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'Kiron.Api': Invalid framework identifier ''.",
+      "projectPath": "C:\\dev\\KironInteractive\\Kiron\\Kiron.Api\\Kiron.Api.csproj",
+      "filePath": "C:\\dev\\KironInteractive\\Kiron\\Kiron.Api\\Kiron.Api.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
